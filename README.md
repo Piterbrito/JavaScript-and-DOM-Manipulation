@@ -1,5 +1,10 @@
 # JavaScript and DOM Manipulation
-Project
+
+Dashboard link: https://piterbrito.github.io/UFO--DOM-Dashboard/
+
+
+![x](static/images/ufo1.png)
+![x](static/images/ufo2.png)
 
 # Background
 
